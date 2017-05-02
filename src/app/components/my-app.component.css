@@ -1,0 +1,7 @@
+@import "app/variable.css";
+
+.comp {
+  color: var(--main-color);
+  background-color: var(--local-color);
+  display: flex;
+}
